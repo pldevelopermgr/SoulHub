@@ -16,16 +16,20 @@
   4.2 Moderators reserve the right to use their own discretion regardless of any rule
   4.3 Moderators reserve the right to delete any post
   4.4 Moderators reserve the right to edit any post
+  4.5 Moderators don't reserve the right to disconnect you from a voice channel if your sound quality is poor
+  4.6 Moderators reserve the right to disconnect, mute, deafen, or move members to and from voice channels
 5. Loop holes / glitches:
   5.1 No exploiting loopholes in the rules (please report them)
   5.2 No random DMing other members of the server
   5.3 No bugs, exploits, glitches, hacks, bugs, etc.
 6. Administration rules:
   6.1 No inviting unofficial bots
+  6.2 No adding/changing/removing command
 7. No trolling
 ```
 
 ## Text Chat Rules
+
 ```
 1. No asking to be granted roles/moderator roles
 2. No questioning the mods if there is no reason to do so
@@ -66,3 +70,18 @@
 37. Bot commands only under #commands
 38. List of allowed bot commands: ".bot/commands"
 39. No channel hopping
+```
+
+## Voice chat rules
+
+```
+1. No annoying, loud or high pitch noises
+2. Reduce the amount of background noise, if possible
+```
+
+## Bot specific rules
+
+```
+1. No command spam
+2. No macros
+3. No hacks
