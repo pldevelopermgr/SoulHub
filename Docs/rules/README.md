@@ -1,5 +1,12 @@
 # Rules
 
+## Behaviour dedicated rules
+
+```
+1. Making fun of the mental state of any member will be punished with a permanent ban immediately
+2. Trolling and lying about your mental state will be punished with a permanent ban
+```
+
 ## General Server Rules
 
 ```
